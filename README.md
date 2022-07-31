@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bazga
 - 👀 I’m interested in programming, sketching and writing non-fiction content. 
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning front end development
 - 💞️ I’m looking to collaborate on projects that help me in polishing my programming skills.
 - 📫 Reach me at bismahashmi1980@gmail.com
 
